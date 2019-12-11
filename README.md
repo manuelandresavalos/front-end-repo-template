@@ -1,7 +1,7 @@
 # Front-end-repo-template
 > Starting front-end repo with the best of the best.
 
-**Tasks**
+**TASKS**
 * Webpack - https://webpack.js.org/
 * Browser-sync - https://www.browsersync.io/
 
@@ -15,3 +15,4 @@
 
 **UI**
 * Flat UI - https://github.com/designmodo/Flat-UI
+* Modernizr - https://github.com/Modernizr/Modernizr
