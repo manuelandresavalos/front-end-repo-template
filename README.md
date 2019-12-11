@@ -18,6 +18,7 @@
 * Flat UI - https://github.com/designmodo/Flat-UI
 * Modernizr - https://github.com/Modernizr/Modernizr
 * Boilerplate - https://github.com/h5bp/html5-boilerplate
+* AdminLTE - https://adminlte.io/
 
 **FRAMEWORKS**
 * Fundation - https://get.foundation/ - https://github.com/foundation/foundation-sites
