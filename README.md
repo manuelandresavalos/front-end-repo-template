@@ -1,7 +1,7 @@
 # Front-end-repo-template
 > Starting front-end repo with the best of the best.
 
-## Dependencies
+**Tasks**
 * Webpack - https://webpack.js.org/
 * Browser-sync - https://www.browsersync.io/
 
