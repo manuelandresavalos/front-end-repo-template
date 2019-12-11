@@ -9,6 +9,7 @@
 * Animate.css - https://github.com/daneden/animate.css
 * Normalize.css - https://github.com/necolas/normalize.css
 * Toastr - https://github.com/CodeSeven/toastr
+* Hover - https://github.com/IanLunn/Hover
 
 **Fonts**
 * Awesome Fonts - https://fontawesome.com/
@@ -16,3 +17,7 @@
 **UI**
 * Flat UI - https://github.com/designmodo/Flat-UI
 * Modernizr - https://github.com/Modernizr/Modernizr
+* Boilerplate - https://github.com/h5bp/html5-boilerplate
+
+**FRAMEWORKS**
+* Fundation - https://get.foundation/ - https://github.com/foundation/foundation-sites
